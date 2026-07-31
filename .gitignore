@@ -1,0 +1,14 @@
+# Local SQLite database (regenerated on first run)
+cats.db
+cats.db-journal
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+
+# Editor / OS
+.vscode/
+.idea/
+.DS_Store
